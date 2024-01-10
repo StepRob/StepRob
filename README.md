@@ -1,9 +1,6 @@
 ### Hi, I'am Step👋 🧑‍💻
 Software Developer passionate about web application development. Some technologies I enjoy working with include MERN Stack, Tailwind CSS, Nextjs and JavaScript
 
-- 📧 How to reach me **dev@codesteprob.com**
-- 👨‍💻 All of my projects are available at [https://codesteprob.com/portfolio](https://codesteprob.com/portfolio)
-
 ### Find me on the web 🌎:
 - [LinkedIn](https://www.linkedin.com/in/porfirio-robledo-abad)
 - [Twitter](https://twitter.com/robledo_sp)
